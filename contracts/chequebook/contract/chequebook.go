@@ -7,12 +7,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/event"
+	ethereum "github.com/pdexchain/go-pdexchain"
+	"github.com/pdexchain/go-pdexchain/accounts/abi"
+	"github.com/pdexchain/go-pdexchain/accounts/abi/bind"
+	"github.com/pdexchain/go-pdexchain/common"
+	"github.com/pdexchain/go-pdexchain/core/types"
+	"github.com/pdexchain/go-pdexchain/event"
 )
 
 // ChequebookABI is the input ABI used to generate the binding from.
