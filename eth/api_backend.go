@@ -21,7 +21,7 @@ import (
 	"math/big"
 
 	"github.com/pdexchain/go-pdexchain/accounts"
-	"github.com/v/go-pdexchain/common"
+	"github.com/pdexchain/go-pdexchain/common"
 	"github.com/pdexchain/go-pdexchain/common/math"
 	"github.com/pdexchain/go-pdexchain/core"
 	"github.com/pdexchain/go-pdexchain/core/bloombits"

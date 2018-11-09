@@ -20,7 +20,7 @@ import (
 	"math/big"
 
 	"github.com/pdexchain/go-pdexchain/common"
-	"github.com/pdexchain/go-pedxchain/consensus"
+	"github.com/pdexchain/go-pdexchain/consensus"
 	"github.com/pdexchain/go-pdexchain/core/types"
 	"github.com/pdexchain/go-pdexchain/core/vm"
 )

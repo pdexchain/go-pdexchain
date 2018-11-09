@@ -31,7 +31,6 @@ import (
 
 	"github.com/pdexchain/go-pdexchain/accounts"
 	"github.com/pdexchain/go-pdexchain/common"
-	"github.com/pdexchain/go-pdexchain/common/math"
 	"github.com/pdexchain/go-pdexchain/crypto"
 	"github.com/pborman/uuid"
 )
